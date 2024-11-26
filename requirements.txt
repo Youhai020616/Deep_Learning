@@ -6,3 +6,6 @@ pandas>=1.3.0
 matplotlib>=3.4.0
 jupyter
 ipykernel
+scikit-learn
+tqdm
+pillow
